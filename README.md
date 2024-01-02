@@ -1,8 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+🖖🏽​​;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+I'm+Eric!+🖖🏽​​;" />
 </h1>
 
-## Hey, I'm Eric
 On a journey to continuously improve as a developer and problem solver every day.
 
 - 🇧🇷​ Originally from São Paulo, Brazil.
@@ -20,3 +19,7 @@ On a journey to continuously improve as a developer and problem solver every day
 
 ## Skills 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c,flask,github,git,neovim,docker&theme=light&perline=5)](https://skillicons.dev)
+
+
+## What I've been using 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacletu&layout=compact) 
