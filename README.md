@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+🖖🏽​​;" />
+</h1>
 
-<!--
-**anacletu/anacletu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm Eric
+On a journey to continuously improve as a developer and problem solver every day.
 
-Here are some ideas to get you started:
+- 🇧🇷​ Originally from São Paulo, Brazil.
+- 🇵🇱​ Currently navigating the tech scene in Gdańsk, Poland.
+- 🎓 Pursuing a MSc. in CS with AI, and #opentowork.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning and Goals
+
+- 🤖 Currently diving into Artificial Intelligence and Machine Learning.
+- 🚀 Exploring new frameworks and tools to enhance my development skills.
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ericanacleto/)
+
+
+## Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacletu&layout=compact) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c,flask,github,git,neovim,docker&theme=light&perline=5)](https://skillicons.dev)
