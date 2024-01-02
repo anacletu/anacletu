@@ -18,6 +18,5 @@ On a journey to continuously improve as a developer and problem solver every day
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ericanacleto/)
 
 
-## Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacletu&layout=compact) 
+## Skills 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c,flask,github,git,neovim,docker&theme=light&perline=5)](https://skillicons.dev)
