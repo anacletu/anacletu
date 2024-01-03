@@ -15,6 +15,7 @@ On a journey to continuously improve as a developer and problem solver every day
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ericanacleto/)
+[![MicrosoftLearn](https://img.shields.io/badge/Microsoft_Learn-white?style=flat-square&logo=microsoft&labelColor=red)](https://learn.microsoft.com/pt-br/users/anacletu/)
 
 
 ## Skills 
