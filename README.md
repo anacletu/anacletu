@@ -14,12 +14,12 @@ On a journey to continuously improve as a developer and problem solver every day
 - 🚀 Exploring new frameworks and tools to enhance my development skills.
 
 ### Where You Can Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ericanacleto/)
-[![MicrosoftLearn](https://img.shields.io/badge/Microsoft_Learn-white?style=flat-square&logo=microsoft&labelColor=red)](https://learn.microsoft.com/pt-br/users/anacletu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ericanacleto/)&nbsp;
+[![MicrosoftLearn](https://img.shields.io/badge/Microsoft_Learn-white?style=flat-square&logo=microsoft&labelColor=red)](https://learn.microsoft.com/pt-br/users/anacletu/)&nbsp;
 [![SoloLearn](https://img.shields.io/badge/Solo_Learn-white?style=flat-square&logo=sololearn&labelColor=white)](https://www.sololearn.com/en/profile/13776681)
 <br>
-[![LeetCode](https://img.shields.io/badge/Leet_Code-orange?style=flat-square&logo=leetcode&labelColor=black)](https://leetcode.com/anacletu/)
-[![HackerRank](https://img.shields.io/badge/Hacker_Rank-darkgreen?style=flat-square&logo=hackerrank&labelColor=black)](https://www.hackerrank.com/profile/Anacletu)
+[![LeetCode](https://img.shields.io/badge/Leet_Code-orange?style=flat-square&logo=leetcode&labelColor=black)](https://leetcode.com/anacletu/)&nbsp;
+[![HackerRank](https://img.shields.io/badge/Hacker_Rank-darkgreen?style=flat-square&logo=hackerrank&labelColor=black)](https://www.hackerrank.com/profile/Anacletu)&nbsp;
 [![Codewars](https://www.codewars.com/users/anacletu/badges/micro)](https://www.codewars.com/users/anacletu)
 
 ## Skills 
