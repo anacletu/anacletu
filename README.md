@@ -22,7 +22,7 @@ On a journey to continuously improve as a developer and problem solver every day
 [![Codewars](https://www.codewars.com/users/anacletu/badges/micro)](https://www.codewars.com/users/anacletu)
 
 ## Skills 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c,flask,github,git,sqlite,docker&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,sklearn,tensorflow,git,sqlite,docker,html,css,javascript&theme=light&perline=5)](https://skillicons.dev)
 
 ## What I've Been Using 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacletu&layout=compact) 
