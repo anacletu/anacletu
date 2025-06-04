@@ -6,7 +6,8 @@ On a journey to continuously improve as a developer and problem solver every day
 
 - 🇧🇷​ Originally from São Paulo, Brazil.
 - 🇵🇱​ Currently navigating the tech scene in Gdańsk, Poland.
-- 🎓 Pursuing a MSc. in CS with AI, and #opentowork.
+- 🎓 Pursuing a MSc. in CS with AI.
+- 💻 IT Graduate at Arla Foods
 
 ### Learning and Goals
 
