@@ -12,7 +12,7 @@ On a journey to continuously improve as a developer and problem solver every day
 ### Learning and Goals
 
 - 🤖 Currently diving into Artificial Intelligence and Machine Learning.
-- 🚀 Exploring new frameworks and tools to enhance my development skills.
+- 🚀 Currently building my own game from scratch with C++.
 
 ### Where You Can Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ericanacleto/)&nbsp;
