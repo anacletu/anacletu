@@ -4,15 +4,15 @@
 
 On a journey to continuously improve as an IT professional and problem solver every day.
 
-- 🇧🇷​ Originally from São Paulo, Brazil.
-- 🇵🇱​ Currently navigating the tech scene in Gdańsk, Poland.
-- 🎓 MSc. in CS with AI; MBA in Software Engineering.
-- 💻 IT Delivery Lead at Arla Foods.
+- Originally from São Paulo, Brazil.
+- Currently navigating the tech scene in Gdańsk, Poland.
+- MSc. in CS with AI; MBA in Software Engineering.
+- IT Delivery Lead at Arla Foods.
 
 ### Learning and Goals
 
-- 🤖 Currently diving into Data Engineering and Machine Learning.
-- 🚀 Building my own game from scratch with C++.
+- Currently diving into Data Engineering and Machine Learning.
+- Building my own game from scratch with C++.
 
 ### Where You Can Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ericanacleto/)&nbsp;
