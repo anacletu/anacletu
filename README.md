@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+I'm+Eric!​​;" />
 </h1>
 
-On a journey to continuously improve as a developer and problem solver every day.
+On a journey to continuously improve as an IT professional and problem solver every day.
 
 - 🇧🇷​ Originally from São Paulo, Brazil.
 - 🇵🇱​ Currently navigating the tech scene in Gdańsk, Poland.
@@ -11,8 +11,8 @@ On a journey to continuously improve as a developer and problem solver every day
 
 ### Learning and Goals
 
-- 🤖 Currently diving into Artificial Intelligence and Machine Learning.
-- 🚀 Currently building my own game from scratch with C++.
+- 🤖 Currently diving into Data Engineering and Machine Learning.
+- 🚀 Building my own game from scratch with C++.
 
 ### Where You Can Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ericanacleto/)&nbsp;
